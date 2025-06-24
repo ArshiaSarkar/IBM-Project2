@@ -23,6 +23,9 @@ The goal is to encourage self-awareness about common mental health symptoms like
 
 You can run this notebook directly in Google Colab:
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1W1lAusG96Rb_SprUtnrJn15pkl5qaUCB?usp=sharing)
+
+
 1. Open the Colab notebook.
 2. Click on `Runtime > Run all`.
 3. Wait for Gradio interface to launch and open the shareable link.
