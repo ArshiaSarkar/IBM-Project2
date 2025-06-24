@@ -32,7 +32,7 @@ You can run this notebook directly in Google Colab:
 If you want to run it locally:
 
 ```bash
-git clone https://github.com/your-username/mental-health-diagnostic.git
+git clone (https://github.com/ArshiaSarkar/IBM-Project2/tree/main)
 cd mental-health-diagnostic
 
 pip install -r requirements.txt
